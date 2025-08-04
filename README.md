@@ -16,6 +16,10 @@ You can find me anywhere with name `sudowilo`
 
 <a href="https://github.com/sudowilo"><img alt="my skills" src="https://skillicons.dev/icons?i=cpp,js,ts,java,nodejs,postman,cmake,bash,postgres,mongodb,linux,redhat,npm,html,css,react"></a>
 
+---
+
+>- changing life style
+
 <!--
 **sudowilo/sudowilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
